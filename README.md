@@ -40,3 +40,9 @@ Code files:
 - CS2_code.py
 
 ### Section. 04
+`Inheritance and its types and uses` Inheritance.pptx
+Code files:
+- code6.py
+- code7.py
+- code8.py
+
